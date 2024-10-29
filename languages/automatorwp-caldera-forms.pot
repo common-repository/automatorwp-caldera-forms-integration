@@ -1,0 +1,64 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: AutomatorWP - Caldera Forms\n"
+"Report-Msgid-Bugs-To: https://automatorwp.com/\n"
+"POT-Creation-Date: 2020-05-21 10:23+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: GamiPress (https://automatorwp.com/)\n"
+"Language-Team: GamiPress <contact@automatorwp.com>\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: libraries\n"
+
+#: automatorwp-caldera-forms.php:155
+#, php-format
+msgid "AutomatorWP - Caldera Forms requires %s and %s in order to work. Please install and activate them."
+msgstr ""
+
+#: automatorwp-caldera-forms.php:168
+msgid "You can uninstall AutomatorWP - Caldera Forms Integration because you already have the pro version installed and includes all the features of the free version."
+msgstr ""
+
+#: includes/functions.php:25 includes/triggers/submit-form.php:41
+msgid "any form"
+msgstr ""
+
+#: includes/triggers/submit-form.php:26
+msgid "User submits a form"
+msgstr ""
+
+#: includes/triggers/submit-form.php:27
+msgid "User submits <strong>a form</strong>"
+msgstr ""
+
+#: includes/triggers/submit-form.php:29
+#, php-format
+msgid "User submits %1$s %2$s time(s)"
+msgstr ""
+
+#: includes/triggers/submit-form.php:31
+#, php-format
+msgid "User submits %1$s"
+msgstr ""
+
+#: includes/triggers/submit-form.php:39
+msgid "Form:"
+msgstr ""
+
+#: includes/triggers/submit-form.php:51
+msgid "Form field value"
+msgstr ""
+
+#: includes/triggers/submit-form.php:53
+msgid "Form field value, replace \"FIELD_NAME\" by the field name"
+msgstr ""
